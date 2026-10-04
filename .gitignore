@@ -1,0 +1,31 @@
+# created by virtualenv automatically
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+CACHEDIR.TAG
